@@ -32,7 +32,7 @@ public class CarEditFragment extends Fragment {
     private Button saveChangesBtn;
 
     public CarEditFragment() {
-        // Required empty public constructor
+        
     }
 
     @Override
@@ -98,7 +98,6 @@ public class CarEditFragment extends Fragment {
         length = lengthEditTxt.getText().toString();
         width = widthEditTxt.getText().toString();
 
-        // TODO save changes to db
         FirebaseFirestore db = FirebaseFirestore.getInstance();
         DocumentReference docRef = db.collection("Cars").document(Integer.toString(id));
 
