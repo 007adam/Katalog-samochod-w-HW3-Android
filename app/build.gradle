@@ -4,9 +4,7 @@ apply plugin: 'com.google.gms.google-services'
 dependencies {
     compile 'com.google.firebase:firebase-core:9.0.0'
     compile 'com.google.firebase:firebase-database:9.0.0'
-    // add SDKs for desired Firebase products
-    // https://firebase.google.com/docs/android/setup#available-libraries
-    //https://zadanie3-adbb2.firebaseio.com/
+    
 }
 
 android {
