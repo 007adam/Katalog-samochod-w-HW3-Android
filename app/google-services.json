@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418797706182",
+    "firebase_url": "https://samochody-hw3.firebaseio.com",
+    "project_id": "samochody-hw3",
+    "storage_bucket": "samochody-hw3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418797706182:android:8e72ef0ff304c378f3b0c7",
+        "android_client_info": {
+          "package_name": "com.example.hw3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418797706182-iklaalsq56pjstilrjls7ad93jgel7so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1EA-DQurdpCbrWsm7S5X_OEv70yIYKew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418797706182-iklaalsq56pjstilrjls7ad93jgel7so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

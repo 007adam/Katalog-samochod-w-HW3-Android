@@ -1,0 +1,16 @@
+<resources>
+    <string name="engine">Engine and Power</string>
+    <string name="app_name">Car Catalog</string>
+    <string name="thisFieldCannotBeEmpty">This value cannot be empty</string>
+    <string name="dialog_confirm">Yes</string>
+    <string name="dialog_cancel">No</string>
+    <string name="callingdialog">calling dialog</string>
+    <string name="delete_dialog_tag">delete dialog</string>
+    <string name="Brand">Brand and Name</string>
+    <string name="Length">Length</string>
+    <string name="Width">Width</string>
+    <string name="add">Add</string>
+    <string name="deleteicon">delete Icon</string>
+    <string name="saveButton">save</string>
+    <string name="delete_question">Do you want to delete this car?</string>
+</resources>
