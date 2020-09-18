@@ -102,7 +102,7 @@ public class CarEditFragment extends Fragment {
         FirebaseFirestore db = FirebaseFirestore.getInstance();
         DocumentReference docRef = db.collection("Cars").document(Integer.toString(id));
 
-        docRef.update("Engine", engine,
+        docRef.update("engine", engine,
                 "Brand", car1,
                 "Length", length,
                 "Width", width);
